@@ -1,4 +1,4 @@
-PCB De Competencia G2.lab: ¡Impulsa Tu Robot Hacia la Victoria!
+PCB De Competencia G2.lab
 
 _imagen del pcb_
 
