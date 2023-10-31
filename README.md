@@ -1,10 +1,11 @@
-# PCB De Competencia G2.lab
+# PCB De Competencia G2
 
-_imagen del pcb_
+![image](https://github.com/BoverGroup/PCB_G2_LAB/assets/144978109/7362ec8b-da57-405a-bc33-02468205c5bc)
+![image](https://github.com/BoverGroup/PCB_G2_LAB/assets/144978109/5731d00a-6bfa-4017-8390-3561e3faa621)
 
 # Descripción
 
-El PCB G2.LAB está diseñado y pensado para competir a nivel profesional en competencias de robótica de diferentes categorías, como Sumo, Minisumo, Micro Sumo y principalmente Laberinto. Potenciado por el avanzado microcontrolador ESP32 de dos núcleos, ofrece gran eficiencia y rendimiento.
+El PCB G2 está diseñado y pensado para competir a nivel profesional en competencias de robótica de diferentes categorías, como Sumo, Minisumo, Micro Sumo y principalmente Laberinto. Potenciado por el avanzado microcontrolador ESP32 de dos núcleos, ofrece gran eficiencia y rendimiento.
 
 Este PCB es muy versátil, ya que cuenta con múltiples salidas para diversos periféricos, como sensores Sharp, ultrasonidos y otros módulos compatibles con Arduino. Además, tiene dos potentes drivers TB67H450AFNG para controlar la velocidad y dirección de giro de sus motores.
 
