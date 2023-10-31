@@ -13,6 +13,9 @@ Dicha versatilidad lo hace ideal para los diferentes tipos de competencias, aunq
 
 Esta placa es una excelente opción para adentrarse o profesionalizarse en el mundo de la robótica o la programación, ya que su compatibilidad con Arduino IDE hace bastante sencillo programarla y utilizarla en el proyecto que el usuario desee.
 
+# Disponibilidad
+Wakanda V1 se encuentra a la venta por tan solo *$40USD* (PCB completo y un manual de Uso)
+
 ## Agradecimientos 🙌
 
 Queremos expresar nuestro agradecimiento a todas las personas que nos han brindado apoyo y colaboración en este proyecto, especialmente a **<a href="https://www.pcbway.com" target="blank">PCBWAY</a>** por apoyar este proyecto. ¡Sin su ayuda, no habríamos llegado tan lejos en nuestro desarrollo!, sin dudas son los mejores en el mercado de PCB.
